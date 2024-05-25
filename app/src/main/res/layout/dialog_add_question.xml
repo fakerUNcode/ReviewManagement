@@ -1,0 +1,41 @@
+<!-- 文件名：dialog_add_question.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/edittext_question_description"
+        android:layout_width="391dp"
+        android:layout_height="108dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="142dp"
+        android:hint="题目描述" />
+
+    <Spinner
+        android:id="@+id/spinner_question_type"
+        android:layout_width="263dp"
+        android:layout_height="96dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="165dp"
+        android:layout_marginTop="42dp" />
+
+    <EditText
+        android:id="@+id/edittext_question_answer"
+        android:layout_width="383dp"
+        android:layout_height="63dp"
+        android:layout_below="@id/edittext_question_description"
+        android:hint="答案" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="391dp"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="81dp"
+        android:text="选择题目类型" />
+
+</RelativeLayout>

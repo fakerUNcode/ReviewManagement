@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">复习题库管理</string>
+    <string name="text_course_toast">
+        保存成功！可在\n<font color="#28bea0">课程管理界面</font> 中查看
+</string>
+    <string name="text_question_toast">
+        保存成功！可在\n<font color="#28bea0">题库管理界面</font> 中筛选查看
+</string>
+
+    <string name="text_course_delete_toast">
+        删除成功！已从\n<font color="#28bea0">题库管理界面</font> 中移除
+</string>
+
+    <string name="text_question_delete_toast">
+        删除成功！已从\n<font color="#28bea0">题库管理界面</font> 中移除
+</string>
+
+
+</resources>
