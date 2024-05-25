@@ -59,7 +59,7 @@
 
 ## 起始页
 
-![Screenshot 2024-05-25 at 11.49.57](https://fakercodes.oss-cn-hangzhou.aliyuncs.com/sl/OS202405251150087.png?sleflearingnotes)动开屏动画结束后会进入起始页，点击”课程管理“按钮即可进入课程管理界面。
+![Screenshot 2024-05-25 at 11.49.57](https://fakercodes.oss-cn-hangzhou.aliyuncs.com/sl/OS202405251150087.png?sleflearingnotes)开屏动画结束后会进入起始页，点击”课程管理“按钮即可进入课程管理界面。
 
 
 
